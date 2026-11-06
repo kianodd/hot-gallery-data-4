@@ -1,0 +1,32 @@
+{
+ "id": "mw4icwhquoxurg",
+ "kind": "video",
+ "mime": "video/mp4",
+ "size": 29233035,
+ "parts": [
+  {
+   "path": "media/mw4icwhquoxurg/p000.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4icwhquoxurg/p001.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4icwhquoxurg/p002.part",
+   "size": 8388608
+  },
+  {
+   "path": "media/mw4icwhquoxurg/p003.part",
+   "size": 4067211
+  }
+ ],
+ "source": "https://www.youtube.com/watch?v=BfVJzYlh6q0",
+ "created_at": 1793941387000,
+ "title": "\u0634\u0628\u06cc\u0647 \u0633\u0627\u0632 \u0633\u0648\u067e\u0631\u0645\u0627\u0631\u06a9\u062a \u0639\u0627\u0644\u06cc\u0647 \u0648\u0644\u06cc \u06cc\u0647 \u0645\u0634\u06a9\u0644\u06cc \u062f\u0627\u0631\u0647 \ud83d\udc80",
+ "channel": "SECESTOON",
+ "yt_id": "BfVJzYlh6q0",
+ "thumb": "media/mw4icwhquoxurg.thumb.jpg",
+ "dur": 534,
+ "preview": "media/mw4icwhquoxurg.preview.gif"
+}
